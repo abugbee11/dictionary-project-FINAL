@@ -1,4 +1,14 @@
-.App-footer {
-  text-align: center;
+body {
+  background: #ffffc3;
+}
+
+a {
+  color: e95d35;
+}
+.App-header {
   margin: 30px 0;
+}
+.App-footer {
+  margin: 30px 0;
+  text-align: center;
 }
