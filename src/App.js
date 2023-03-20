@@ -11,18 +11,27 @@ export default function App() {
         </main>
         <footer className="App-footer">
           Coded by{" "}
-          <a href="https://www.linkedin.com/in/abugbee/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/abugbee/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Adrienne Bugbee
           </a>
           . Open source code available on{" "}
           <a
             href="https://github.com/abugbee11/dictionary-project-FINAL"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>{" "}
           and hosted by{" "}
-          <a href="https://voluble-peony-76ef74.netlify.app/" target="_blank">
+          <a
+            href="https://voluble-peony-76ef74.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Netlify
           </a>
           .
