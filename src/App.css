@@ -3,6 +3,11 @@ body {
   font-family: "Prompt", sans-serif;
 }
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App a {
   color: #272e6e;
 }
