@@ -1,5 +1,6 @@
 body {
   background: #ffffc3;
+  font-family: "Prompt", sans-serif;
 }
 
 .App a {
@@ -12,9 +13,9 @@ body {
 }
 .App-header {
   margin: 30px 0;
-  font-size: 40px;
+  font-size: 48px;
   text-align: center;
-  font-weight: bold;
+  font-weight: 800;
   text-transform: uppercase;
   text-decoration: underline;
 }
